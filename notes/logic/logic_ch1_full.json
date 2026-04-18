@@ -1,0 +1,134 @@
+[
+  {
+    "slide_id": 1,
+    "title": "1. What is Philosophy? (ፍልስፍና ምንድን ነው?)",
+    "content": "Philosophy is the rational attempt to formulate, understand, and answer fundamental questions about existence, knowledge, and values.\n\n💡 በአማርኛ ማብራሪያ፦ ፍልስፍና ማለት ስለ መኖር (ህልውና)፣ ስለ እውቀት እና ስለ መልካም/መጥፎ ነገሮች መሰረታዊ ጥያቄዎችን በምክንያት ለማስረዳት የምንሞክርበት የትምህርት ዘርፍ ነው።",
+    "examples": [
+      "Does God exist? (ፈጣሪ አለ?) - Metaphysical question",
+      "What is truth? (እውነት ምንድን ነው?) - Epistemological question"
+    ],
+    "keywords": {
+      "Philo & Sophia": "የግሪክ ቃላት ሲሆኑ ትርጉማቸው 'Love of Wisdom' (የጥበብ ፍቅር) ማለት ነው።",
+      "Critical Thinking": "Evaluating ideas carefully before accepting them (ሀሳቦችን ዝም ብሎ ከመቀበል ይልቅ በጥልቀት መመርመር)።"
+    }
+  },
+  {
+    "slide_id": 2,
+    "title": "2. The Core Branches of Philosophy (የፍልስፍና ዋና ዋና ዘርፎች)",
+    "content": "Philosophy is divided into main branches. You must know them for the exam!\n\n💡 ማብራሪያ፦ ፈተና ላይ እነዚህ አራቱ ዘርፎች ምን እንደሚያጠኑ በደንብ ትጠየቃለህ።",
+    "examples": [
+      "Metaphysics studies Reality (ሜታፊዚክስ ስለ መኖር/ህልውና ያጠናል)።",
+      "Axiology studies Values (አክሲዮሎጂ ስለ እሴት፣ ስነ-ምግባር እና ውበት ያጠናል)።"
+    ],
+    "keywords": {
+      "Metaphysics (ሜታፊዚክስ)": "The study of reality and existence. (ከአካላዊው ዓለም ባሻገር ያሉ እውነታዎችን ያጠናል)።",
+      "Epistemology (ኤፒስተሞሎጂ)": "The study of knowledge. (ስለ እውቀት ምንነት፣ ምንጭ እና ወሰን ያጠናል)።",
+      "Axiology (አክሲዮሎጂ)": "The study of values, including Ethics (Morals) and Aesthetics (Beauty).",
+      "Logic (ሎጂክ)": "The study of correct reasoning (ትክክለኛውን ማመዛዘን ያጠናል)።"
+    }
+  },
+  {
+    "slide_id": 3,
+    "title": "3. Introduction to Logic (ስለ ሎጂክ አጠቃላይ እይታ)",
+    "content": "Logic is the study of methods and principles used to distinguish correct from incorrect reasoning.\n\n💡 ማብራሪያ፦ ሎጂክ ማለት አንድ ሰው የሚያቀርበው መከራከሪያ (Argument) ትክክል ነው ወይስ አይደለም? ብለን የምንመዝንበት ህግ ወይም መሳሪያ ነው።",
+    "examples": [
+      "Good Logic: It is raining, so the ground is wet. (ዝናብ እየዘነበ ነው፣ ስለዚህ መሬቱ ርጥብ ነው።)",
+      "Bad Logic: I drank water, so I will pass the exam. (ውሃ ስለጠጣሁ ፈተናውን አናልፋለሁ - ይህ የተሳሳተ ማመዛዘን ነው)።"
+    ],
+    "keywords": {
+      "Reasoning (ማመዛዘን)": "The process of drawing conclusions from evidence. (ከመረጃ ተነስተን ወደ ማጠቃለያ የምንደርስበት ሂደት)።"
+    }
+  },
+  {
+    "slide_id": 4,
+    "title": "4. What is an Argument? (አርጉመንት/መከራከሪያ ምንድን ነው?)",
+    "content": "In Logic, an argument is not a fight! It is a group of statements where premises provide support for a conclusion.\n\n💡 ማብራሪያ፦ በሎጂክ 'አርጉመንት' ማለት ፀብ ማለት አይደለም። አንድን ዋና ሀሳብ (ማጠቃለያ) ለማሳመን ብለን መረጃዎችን (ማስረጃዎችን) ስናቀርብ አርጉመንት ይባላል።",
+    "examples": [
+      "Premise 1: All humans are mortal. (ሰዎች ሁሉ ሟች ናቸው)\nPremise 2: Socrates is a human. (ሶቅራጠስ ሰው ነው)\nConclusion: Therefore, Socrates is mortal. (ስለዚህ፣ ሶቅራጠስ ሟች ነው)"
+    ],
+    "keywords": {
+      "Statement (አረፍተ-ነገር)": "A sentence that is either True or False. (እውነት ወይም ሀሰት ሊባል የሚችል አረፍተ ነገር - ጥያቄና ትእዛዝ Statement አይሆኑም!)።",
+      "Premise (ማስረጃ)": "The statements that provide evidence. (ለዋናው ሀሳብ የምናቀርበው ማስረጃ)።",
+      "Conclusion (ማጠቃለያ)": "The main point being proved. (ማስረጃው ሊያሳምነን የፈለገው ዋናው ግብ)።"
+    }
+  },
+  {
+    "slide_id": 5,
+    "title": "5. Argument Indicators (ማስረጃ እና ማጠቃለያን መለያ ቃላት)",
+    "content": "To identify premises and conclusions in an exam, look for these 'Indicator Words'.\n\n💡 ማብራሪያ፦ ፈተና ላይ አንድ ጽሁፍ ተሰጥቶህ የትኛው Premise እና የትኛው Conclusion እንደሆነ እንድትለይ ስትጠየቅ እነዚህን ቃላት ፈልግ።",
+    "examples": [
+      "Since it is raining (Premise), I will take an umbrella (Conclusion)."
+    ],
+    "keywords": {
+      "Premise Indicators (የማስረጃ ቃላት)": "Since, Because, For, As indicated by, Given that... (ምክንያቱም፣ በመሆኑም...)",
+      "Conclusion Indicators (የማጠቃለያ ቃላት)": "Therefore, Thus, So, Hence, Consequently... (ስለዚህ፣ ከዚህ በመነሳት...)"
+    }
+  },
+  {
+    "slide_id": 6,
+    "title": "6. Non-Arguments (አርጉመንት ያልሆኑትን መለየት)",
+    "content": "Be careful in exams! Not all paragraphs are arguments. Some just explain or describe things.\n\n💡 ማብራሪያ፦ ፈተና ላይ በጣም የምታታልል ጥያቄ ነች። ማስረጃ እና ማጠቃለያ (Premise & Conclusion) የሌለው ጽሁፍ አርጉመንት አይባልም።",
+    "examples": [
+      "Explanation (ማብራሪያ): The sky is blue because of sunlight scattering. (ይህ አርጉመንት አይደለም፣ የተፈጠረን ነገር እያብራራ ነው።)",
+      "Conditional (ግምታዊ): If you study hard, you will pass. (If... then... የሚሉ አረፍተ ነገሮች ብቻቸውን አርጉመንት አይሆኑም።)"
+    ],
+    "keywords": {
+      "Warning / Advice": "Watch out! / You should study. (ማስጠንቀቂያ ወይም ምክር አርጉመንት አይደለም)።",
+      "Expository Passage": "A text that just gives information without proving a point. (መረጃ ብቻ የሚሰጥ ጽሁፍ)።"
+    }
+  },
+  {
+    "slide_id": 7,
+    "title": "7. Deductive vs. Inductive Arguments (የአርጉመንት አይነቶች)",
+    "content": "Arguments are divided into two based on the strength of the link between premise and conclusion.\n\n💡 ማብራሪያ፦ ማስረጃው ማጠቃለያውን ምን ያህል በእርግጠኝነት ይደግፈዋል? በሚለው መሰረት አርጉመንት በሁለት ይከፈላል።",
+    "examples": [
+      "Deductive: All dogs are mammals. Rex is a dog. Rex IS a mammal. (100% እርግጠኛ)",
+      "Inductive: Most students passed logic. Abebe is a student. Abebe PROBABLY passed logic. (ሊሆን ይችላል)"
+    ],
+    "keywords": {
+      "Deductive (ዲዳክቲቭ)": "Claims 100% certainty. The conclusion follows necessarily. (ማጠቃለያው ሙሉ በሙሉ ግድ መሆን ያለበት)።",
+      "Inductive (ኢንደክቲቭ)": "Claims probability. The conclusion is likely to be true. (ማጠቃለያው ሊሆን የሚችል / Probability ላይ የተመሰረተ)።"
+    }
+  },
+  {
+    "slide_id": 8,
+    "title": "8. Evaluating Deductive Arguments (ዲዳክቲቭን መመዘን)",
+    "content": "For Deductive arguments, we check 'Validity' (Logic structure) and 'Soundness' (Truth).\n\n💡 ማብራሪያ፦ ይህ የፈተና ዋና አካል ነው! መጀመሪያ አወቃቀሩ ትክክል መሆኑን (Valid) እናያለን፣ ቀጥሎ ደግሞ ሀሳቡ እውነት መሆኑን (Sound) እናጣራለን።",
+    "examples": [
+      "Valid but Not Sound (ቅርጹ ልክ ሆኖ ውሸት የሆነ): All cows can fly. Milka is a cow. Milka can fly. (Valid ነው ግን Sound አይደለም ምክንያቱም ላም አትበርም!)"
+    ],
+    "keywords": {
+      "Valid (ቫሊድ/ትክክለኛ ቅርፅ)": "If premises are true, conclusion MUST be true. (ማስረጃዎቹ እውነት ቢሆኑ፣ ማጠቃለያው የግድ እውነት መሆን አለበት)።",
+      "Invalid (ኢንቫሊድ)": "Premises are true, but conclusion is false. (ማስረጃው እውነት ሆኖ ማጠቃለያው የማይገናኝ ከሆነ)።",
+      "Sound (ሳውንድ)": "A Valid argument + All premises are ACTUALLY true in real life. (ቅርጹም ልክ የሆነ፣ በተጨባጭም እውነት የሆነ)።"
+    }
+  },
+  {
+    "slide_id": 9,
+    "title": "9. Evaluating Inductive Arguments (ኢንደክቲቭን መመዘን)",
+    "content": "For Inductive arguments, we check 'Strength' and 'Cogency' (We do not use the word Valid here!).\n\n💡 ማብራሪያ፦ ዲዳክቲቭን Valid/Sound እንደምንለው ሁሉ፣ ኢንደክቲቭ ላይ ደግሞ Strong (ጠንካራ) እና Cogent (አሳማኝ) እንላለን።",
+    "examples": [
+      "Strong Inductive: 99% of people in Ethiopia speak Amharic. Alemu is from Ethiopia. So, Alemu speaks Amharic."
+    ],
+    "keywords": {
+      "Strong (ስትሮንግ/ጠንካራ)": "If premises are true, the conclusion is VERY LIKELY to be true. (ማስረጃው ጠንካራ ግምት የሚሰጥ ከሆነ)።",
+      "Weak (ዊክ/ደካማ)": "The premises do not provide enough support. (ማስረጃው በቂ ካልሆነ)።",
+      "Cogent (ኮጀንት/አሳማኝ)": "A Strong argument + All premises are ACTUALLY true. (ጠንካራ የሆነ እና የተጠቀሙት ማስረጃ በተጨባጭ እውነት የሆነ)።"
+    }
+  },
+  {
+    "slide_id": 10,
+    "title": "10. Chapter 1 Summary for Exams (ለፈተና ማስታወስ ያለብህ)",
+    "content": "Quick recap of what to memorize for your Mid-Exam!\n\n💡 ማብራሪያ፦ ፈተና ከመግባትህ በፊት እነዚህን በአእምሮህ ያዝ፦",
+    "examples": [
+      "1. Know the 4 branches of philosophy.",
+      "2. Differentiate Premise indicators from Conclusion indicators.",
+      "3. Remember: Valid/Sound are ONLY for Deductive. Strong/Cogent are ONLY for Inductive."
+    ],
+    "keywords": {
+      "Exam Tip 1": "A Sound argument is ALWAYS Valid. (Sound የሆነ ሁሉ Valid ነው)።",
+      "Exam Tip 2": "An Invalid argument is ALWAYS Unsound. (Invalid የሆነ ሁሉ Unsound ነው)።",
+      "Exam Tip 3": "Truth value belongs to Statements, but Validity belongs to Arguments. (እውነት/ውሸት የሚባለው Statement ነው፤ Valid/Invalid የሚባለው ግን ሙሉው Argument ነው)።"
+    }
+  }
+]
