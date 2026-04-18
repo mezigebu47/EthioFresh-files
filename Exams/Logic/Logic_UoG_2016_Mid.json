@@ -1,0 +1,337 @@
+[
+  {
+    "id": 1,
+    "question": "In a complex question fallacy we may get questionable ideas either in the part of the premise or the conclusion.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "type": "True/False"
+  },
+  {
+    "id": 2,
+    "question": "Lexical definitions are the kinds of definitions found in dictionaries and report the conventional definition of a term for the purpose of eliminating the ambiguity.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "type": "True/False"
+  },
+  {
+    "id": 3,
+    "question": "Definition by genus and difference is the most effective technique of intentional definitions for producing all types of definitions.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "type": "True/False"
+  },
+  {
+    "id": 4,
+    "question": "An intentional definition of a term usually determines the extensional definition of terms and vice versa.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "type": "True/False"
+  },
+  {
+    "id": 5,
+    "question": "The fallacy of composition is committed when we legitimately transfer the attributes of component parts to the whole.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "type": "True/False"
+  },
+  {
+    "id": 6,
+    "question": "Identify the statement which is correct about definition in logic.",
+    "options": [
+      "All terms under lexical definitions are vague and necessarily hold the truth value.",
+      "The role of definiens is always projected to offer extensional description to the definiendum.",
+      "In both persuasive and stipulative definitions the ultimate objective is to assign meaning which basically consists of truth.",
+      "Words are said to be 'vague' when there are borderline cases where it is impossible to decide whether they apply."
+    ],
+    "answer": "Words are said to be 'vague' when there are borderline cases where it is impossible to decide whether they apply.",
+    "type": "Multiple Choice"
+  },
+  {
+    "id": 7,
+    "question": "Identify the incorrect statement about the extension and intension of terms.",
+    "options": [
+      "The order of increasing intension is the same as the order of decreasing extension.",
+      "Intension of a term consists of the qualities or attributes that the term implies.",
+      "Extension of a term is the class of objects to which the term applies.",
+      "The order of increasing extension is the same as the order of increasing intension."
+    ],
+    "answer": "The order of increasing extension is the same as the order of increasing intension.",
+    "type": "Multiple Choice"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is not true about fallacies of relevance?",
+    "options": [
+      "They occur when the premises of an argument are logically irrelevant to the conclusion.",
+      "The premises are psychologically relevant but not logically relevant.",
+      "They occur when the connection between the premises and conclusion is not strong enough.",
+      "They include fallacies like Appeal to Pity and Ad Hominem."
+    ],
+    "answer": "They occur when the connection between the premises and conclusion is not strong enough.",
+    "type": "Multiple Choice"
+  },
+  {
+    "id": 9,
+    "question": "The fallacy of Appeal to Force (Argumentum ad Baculum) occurs when an arguer:",
+    "options": [
+      "Appeals to the pity or sympathy of the listener.",
+      "Poses a conclusion and tells the listener that some harm will come to them if they do not accept it.",
+      "Uses the desire to be loved or accepted to win acceptance of a conclusion.",
+      "Attacks the character of the opposing arguer."
+    ],
+    "answer": "Poses a conclusion and tells the listener that some harm will come to them if they do not accept it.",
+    "type": "Multiple Choice"
+  },
+  {
+    "id": 10,
+    "question": "Which fallacy is committed when an arguer attempts to support a conclusion by evoking pity from the reader or listener?",
+    "options": [
+      "Appeal to Ignorance",
+      "Appeal to Pity",
+      "Appeal to the People",
+      "Straw Man"
+    ],
+    "answer": "Appeal to Pity",
+    "type": "Multiple Choice"
+  },
+  {
+    "id": 11,
+    "question": "When an arguer attacks the person making the argument rather than the argument itself, which fallacy is committed?",
+    "options": [
+      "Ad Hominem",
+      "Red Herring",
+      "Missing the Point",
+      "Accident"
+    ],
+    "answer": "Ad Hominem",
+    "type": "Multiple Choice"
+  },
+  {
+    "id": 12,
+    "question": "The 'Tu Quoque' (you too) fallacy is a variety of which broader category of fallacy?",
+    "options": [
+      "Fallacies of Weak Induction",
+      "Fallacies of Presumption",
+      "Argument against the Person (Ad Hominem)",
+      "Fallacies of Ambiguity"
+    ],
+    "answer": "Argument against the Person (Ad Hominem)",
+    "type": "Multiple Choice"
+  },
+  {
+    "id": 13,
+    "question": "If a general rule is applied to a specific case it was not intended to cover, the fallacy is:",
+    "options": [
+      "Accident",
+      "Hasty Generalization",
+      "Composition",
+      "Division"
+    ],
+    "answer": "Accident",
+    "type": "Multiple Choice"
+  },
+  {
+    "id": 14,
+    "question": "The Straw Man fallacy is committed when an arguer:",
+    "options": [
+      "Distorts an opponent's argument to make it easier to attack.",
+      "Draws a conclusion that misses the point entirely.",
+      "Diverts the attention of the reader by changing the subject.",
+      "Relies on unqualified authority."
+    ],
+    "answer": "Distorts an opponent's argument to make it easier to attack.",
+    "type": "Multiple Choice"
+  },
+  {
+    "id": 15,
+    "question": "Which fallacy involves diverting the attention of the listener by changing the subject to a different but sometimes subtly related one?",
+    "options": [
+      "Straw Man",
+      "Missing the Point",
+      "Red Herring",
+      "Appeal to Ignorance"
+    ],
+    "answer": "Red Herring",
+    "type": "Multiple Choice"
+  },
+  {
+    "id": 16,
+    "question": "An argument that concludes something is true simply because it hasn't been proven false commits the fallacy of:",
+    "options": [
+      "Appeal to Unqualified Authority",
+      "Appeal to Ignorance",
+      "Hasty Generalization",
+      "False Cause"
+    ],
+    "answer": "Appeal to Ignorance",
+    "type": "Multiple Choice"
+  },
+  {
+    "id": 17,
+    "question": "Drawing a general conclusion from a sample that is either too small or not representative is known as:",
+    "options": [
+      "Accident",
+      "Weak Analogy",
+      "Hasty Generalization",
+      "Slippery Slope"
+    ],
+    "answer": "Hasty Generalization",
+    "type": "Multiple Choice"
+  },
+  {
+    "id": 18,
+    "question": "The fallacy of False Cause occurs when:",
+    "options": [
+      "An analogy is not strong enough to support the conclusion.",
+      "A conclusion rests on an unlikely chain reaction.",
+      "The link between premises and conclusion depends on some imagined causal connection that probably does not exist.",
+      "Multiple questions are concealed in a single question."
+    ],
+    "answer": "The link between premises and conclusion depends on some imagined causal connection that probably does not exist.",
+    "type": "Multiple Choice"
+  },
+  {
+    "id": 19,
+    "question": "A 'Post hoc ergo propter hoc' fallacy is a specific type of which broader fallacy?",
+    "options": [
+      "False Cause",
+      "Weak Analogy",
+      "Begging the Question",
+      "Equivocation"
+    ],
+    "answer": "False Cause",
+    "type": "Multiple Choice"
+  },
+  {
+    "id": 20,
+    "question": "The Slippery Slope fallacy asserts that:",
+    "options": [
+      "Two things are alike in one respect, so they must be alike in another.",
+      "A single step will inevitably lead to a chain of negative events.",
+      "A claim is true because an expert says so.",
+      "The parts of a whole have a certain property, therefore the whole has that property."
+    ],
+    "answer": "A single step will inevitably lead to a chain of negative events.",
+    "type": "Multiple Choice"
+  },
+  {
+    "id": 21,
+    "question": "Which of the following fallacies occurs when an arguer creates the illusion that inadequate premises provide adequate support for the conclusion by leaving out a key premise, restating a possibly false premise as the conclusion, or reasoning in a circle?",
+    "options": [
+      "Complex Question",
+      "False Dichotomy",
+      "Begging the Question",
+      "Suppressed Evidence"
+    ],
+    "answer": "Begging the Question",
+    "type": "Multiple Choice"
+  },
+  {
+    "id": 22,
+    "question": "When two or more questions are asked in the guise of a single question and a single answer is then given to both of them, it is known as:",
+    "options": [
+      "Begging the Question",
+      "Complex Question",
+      "False Dichotomy",
+      "Amphiboly"
+    ],
+    "answer": "Complex Question",
+    "type": "Multiple Choice"
+  },
+  {
+    "id": 23,
+    "question": "The fallacy of False Dichotomy is also known as:",
+    "options": [
+      "False Dilemma",
+      "Circular Reasoning",
+      "Equivocation",
+      "Division"
+    ],
+    "answer": "False Dilemma",
+    "type": "Multiple Choice"
+  },
+  {
+    "id": 24,
+    "question": "'Those who are not with us are our enemies' this fallacy is:",
+    "options": [
+      "False cause",
+      "Post hoc fallacy",
+      "Straw man fallacy",
+      "False dichotomy"
+    ],
+    "answer": "False dichotomy",
+    "type": "Multiple Choice"
+  },
+  {
+    "id": 25,
+    "question": "The fallacy of __________ is committed when the conclusion of an argument depends on the fact that an analogy is not strong enough to support the conclusion.",
+    "options": [
+      "False Cause",
+      "Weak Analogy",
+      "Hasty Generalization",
+      "Slippery Slope"
+    ],
+    "answer": "Weak Analogy",
+    "type": "Multiple Choice"
+  },
+  {
+    "id": 26,
+    "question": "Which fallacy involves the use of a word or phrase in two different senses within an argument?",
+    "options": [
+      "Amphiboly",
+      "Equivocation",
+      "Composition",
+      "Division"
+    ],
+    "answer": "Equivocation",
+    "type": "Multiple Choice"
+  },
+  {
+    "id": 27,
+    "question": "Amphiboly occurs when the arguer misinterprets a statement that is ambiguous owing to:",
+    "options": [
+      "A defective grammatical structure or punctuation.",
+      "The use of vague terms.",
+      "A shift in the meaning of a specific word.",
+      "An appeal to emotion."
+    ],
+    "answer": "A defective grammatical structure or punctuation.",
+    "type": "Multiple Choice"
+  },
+  {
+    "id": 28,
+    "question": "'If we allow students to use their mobile phones in class, soon they will be using them during exams, and eventually, the whole education system will collapse.' This is an example of:",
+    "options": [
+      "Slippery Slope",
+      "False Cause",
+      "Hasty Generalization",
+      "Missing the Point"
+    ],
+    "answer": "Slippery Slope",
+    "type": "Multiple Choice"
+  },
+  {
+    "id": 29,
+    "question": "The fallacy of Division is the exact reverse of the fallacy of:",
+    "options": [
+      "Equivocation",
+      "Amphiboly",
+      "Composition",
+      "Accident"
+    ],
+    "answer": "Composition",
+    "type": "Multiple Choice"
+  },
+  {
+    "id": 30,
+    "question": "'Of course my opponent is arguing against taxation of the rich. Just look at him! He's the richest person in this town. There's no way someone like that could argue anything else'. The fallacy here is:",
+    "options": [
+      "Ad Hominem Circumstantial",
+      "Ad Hominem Abusive",
+      "Straw man",
+      "Tu quoque"
+    ],
+    "answer": "Ad Hominem Circumstantial",
+    "type": "Multiple Choice"
+  }
+]
