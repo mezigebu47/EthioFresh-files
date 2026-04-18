@@ -1,0 +1,97 @@
+[
+  {
+    "slide_id": 1,
+    "title": "Chapter 1: Introduction to Philosophy",
+    "content": "Philosophy begins with wonder. It is the rational attempt to formulate, understand, and answer fundamental questions.",
+    "keywords": {
+      "Etymology": "Derived from Greek words 'Philo' (love) and 'Sophia' (wisdom).",
+      "Philosophy": "The love of wisdom and the search for self-understanding."
+    }
+  },
+  {
+    "slide_id": 2,
+    "title": "Basic Features of Philosophy",
+    "content": "Philosophy is characterized by its critical and systematic nature.",
+    "keywords": {
+      "Critical Thinking": "A logical process of analyzing and evaluating information.",
+      "Reflective": "Examining our lives and the world around us deeply.",
+      "Independence": "Thinking for oneself rather than following the crowd."
+    }
+  },
+  {
+    "slide_id": 3,
+    "title": "The Four Core Branches (Pillars)",
+    "content": "Modern philosophy is divided into four major areas of study.",
+    "keywords": {
+      "Metaphysics": "The study of reality—what is real? (Existence, God, Mind).",
+      "Epistemology": "The study of knowledge—how do we know? (Truth, Belief).",
+      "Axiology": "The study of values—Ethics (Moral) and Aesthetics (Beauty).",
+      "Logic": "The study of correct reasoning and arguments."
+    }
+  },
+  {
+    "slide_id": 4,
+    "title": "Importance of Learning Philosophy",
+    "content": "Why is this course mandatory for all Ethiopian freshman students?",
+    "keywords": {
+      "Intellectual Growth": "Expanding your mind and reasoning skills.",
+      "Open-mindedness": "Being willing to consider different perspectives.",
+      "Social Harmony": "Understanding values to live better with others."
+    }
+  },
+  {
+    "slide_id": 5,
+    "title": "The Meaning of Logic",
+    "content": "Logic is the heart of philosophy. It provides the 'rules' for thinking.",
+    "keywords": {
+      "Goal of Logic": "To develop methods for distinguishing good arguments from bad ones.",
+      "Reasoning": "The process of drawing conclusions from facts or evidence."
+    }
+  },
+  {
+    "slide_id": 6,
+    "title": "Components of an Argument",
+    "content": "In logic, an argument is a structure of ideas.",
+    "keywords": {
+      "Statement": "A sentence that has a truth-value (either True or False).",
+      "Premise": "The evidence/reason given for a claim.",
+      "Conclusion": "The main claim that is supported by the premises."
+    }
+  },
+  {
+    "slide_id": 7,
+    "title": "Argument Indicators (Very Important!)",
+    "content": "How to identify premises and conclusions in a text.",
+    "keywords": {
+      "Premise Indicators": "Since, because, for, as, as indicated by, given that.",
+      "Conclusion Indicators": "Therefore, thus, so, hence, consequently, it follows that."
+    }
+  },
+  {
+    "slide_id": 8,
+    "title": "Two Types of Reasoning",
+    "content": "Arguments are classified based on the level of certainty they claim.",
+    "keywords": {
+      "Deductive Argument": "The conclusion follows with 100% necessity. (From General to Specific).",
+      "Inductive Argument": "The conclusion follows with probability. (From Specific to General)."
+    }
+  },
+  {
+    "slide_id": 9,
+    "title": "Evaluating Deductive Arguments",
+    "content": "We check two things: Logic and Truth.",
+    "keywords": {
+      "Validity": "The structure is correct (If premises are true, conclusion MUST be true).",
+      "Soundness": "The argument is Valid AND all the premises are actually True."
+    }
+  },
+  {
+    "slide_id": 10,
+    "title": "Evaluating Inductive Arguments",
+    "content": "Since they are based on probability, we use different terms.",
+    "keywords": {
+      "Strength": "The premises make the conclusion very likely to be true.",
+      "Cogency": "The argument is Strong AND all the premises are actually True."
+    }
+  }
+]
