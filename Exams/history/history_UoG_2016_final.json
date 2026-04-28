@@ -1,0 +1,407 @@
+‎[
+‎  {
+‎    "number": 1,
+‎    "question": "The Somalis had an indigenous governance system known as Makabanto. (True/False)",
+‎    "options": ["True", "False"],
+‎    "answer": "False",
+‎    "explanation": "The Somalis traditionally use a governance system known as 'Heer'. Makabanto is actually an indigenous governance system associated with the Afar people. / ሶማሊያውያን የሚጠቀሙት 'ሄር' (Heer) የተባለ ባህላዊ የአስተዳደር ስርዓት ነው። መካባንቶ (Makabanto) የአፋር ህዝብ የአስተዳደር ስርዓት ነው።"
+‎  },
+‎  {
+‎    "number": 2,
+‎    "question": "An epitome of Emperor Yohannes IV's willingness to give regional lords a great deal of autonomy was his recognition of Adal Tessema as Negus Teklehaymanot of Gojjam and Keffa. (True/False)",
+‎    "options": ["True", "False"],
+‎    "answer": "True",
+‎    "explanation": "Emperor Yohannes IV followed a decentralized policy. In 1881, he crowned Adal Tessema as King (Negus) of Gojjam and Keffa to maintain a balanced power structure. / አፄ ዮሐንስ 4ኛ ስልጣን በየክልሉ ላሉ መሪዎች የማጋራት ፖሊሲ ነበራቸው።"
+‎  },
+‎  {
+‎    "number": 3,
+‎    "question": "Zara-Yaqob had made peace with the House of Deqiqe Estifanos but not with Ewostatewos. (True/False)",
+‎    "options": ["True", "False"],
+‎    "answer": "False",
+‎    "explanation": "Zara Yaqob was very harsh towards the Deqiqe Estifanos movement because they refused to prostrate to the cross or Mary. / አፄ ዘርዓ ያዕቆብ ከደቂቀ እስጢፋኖስ ጋር ሰላም አልነበራቸውም።"
+‎  },
+‎  {
+‎    "number": 4,
+‎    "question": "In mid-1870s the Western Gurage peacefully submitted to Menilek because of their religious affinity and geographical proximity to Shewa. (True/False)",
+‎    "options": ["True", "False"],
+‎    "answer": "False",
+‎    "explanation": "While the Northern Gurage (Kistane) submitted peacefully, the Western Gurage (Sebat Bet) fiercely resisted Menelik's expansion. / ሰሜን ጉራጌዎች በሰላም ቢገቡም፣ ምዕራብ ጉራጌዎች ግን ከባድ ተቃውሞ ሲያደርጉ ነበር።"
+‎  },
+‎  {
+‎    "number": 5,
+‎    "question": "Moggasa was a system of adopting non-Oromos commonly known as Oromsu. (True/False)",
+‎    "options": ["True", "False"],
+‎    "answer": "True",
+‎    "explanation": "Moggasa is the Oromo traditional practice of adopting individuals or entire groups into an Oromo clan. / ሞጋሳ ማለት ግለሰቦችን ወደ ኦሮሞ ጎሳ በማስገባት 'ኦሮሞ የማድረግ' ባህላዊ ስርዓት ነው።"
+‎  },
+‎  {
+‎    "number": 6,
+‎    "question": "The Sheikhdoms of Assosa/Aqoldi, Bela-Shangul, Khomosha and Guba were founded by Muslim leaders of Sudanese origin. (True/False)",
+‎    "options": ["True", "False"],
+‎    "answer": "True",
+‎    "explanation": "These borderland sheikhdoms were established by influential Muslim leaders who came from Sudan. / እነዚህ ሸይክዶሞች የተመሰረቱት ከሱዳን በመጡ ሙስሊም መሪዎች ነው።"
+‎  },
+‎  {
+‎    "number": 7,
+‎    "question": "The territorial expansion during the medieval period led to the spread of Christianity. (True/False)",
+‎    "options": ["True", "False"],
+‎    "answer": "True",
+‎    "explanation": "Kings like Amde-Tsion expanded the kingdom's territory, which facilitated the spread of Christianity. / በመካከለኛው ዘመን የተደረገው የግዛት ማስፋፋት ክርስትና እንዲስፋፋ ትልቅ ሚና ተጫውቷል።"
+‎  },
+‎  {
+‎    "number": 8,
+‎    "question": "Which battle was fought between Kasa Hailu of Quara and Egyptian forces in 1848?",
+‎    "options": ["Battle of Dabarki", "Battle of Metemma", "Battle of Adwa", "Battle of Maqdela"],
+‎    "answer": "Battle of Dabarki",
+‎    "explanation": "Kasa Hailu (later Tewodros II) fought the Egyptians at Dabarki in 1848. / ካሳ ሃይሉ በ1848 ከግብፅ ጋር በዳባርኪ ተዋግቷል።"
+‎  },
+‎  {
+‎    "number": 9,
+‎    "question": "Which battle was fought between Emperor Yohannes IV and the Mahdists in 1889?",
+‎    "options": ["Battle of Assam", "Battle of Metemma", "Battle of Dogali", "Battle of Gundet"],
+‎    "answer": "Battle of Metemma",
+‎    "explanation": "Emperor Yohannes IV was killed at the Battle of Metemma in 1889. / አፄ ዮሐንስ 4ኛ በ1889 መተማ ላይ ከመሃዲስቶች ጋር ሲዋጉ ህይወታቸው አልፏል።"
+‎  },
+‎  {
+‎    "number": 10,
+‎    "question": "Which battle was fought between Emperor Menelik II and Italian forces in 1896?",
+‎    "options": ["Battle of Adwa", "Battle of Dogali", "Battle of Maqdela", "Battle of Dabarki"],
+‎    "answer": "Battle of Adwa",
+‎    "explanation": "The historic victory took place at Adwa on March 1, 1896. / የዓድዋ ጦርነት በ1896 የተካሄደ ታሪካዊ ድል ነው።"
+‎  },
+‎  {
+‎    "number": 11,
+‎    "question": "Which battle was fought between Emperor Tewodros II and British forces in 1868?",
+‎    "options": ["Battle of Dabarki", "Battle of Maqdela", "Battle of Assam", "Battle of Dogali"],
+‎    "answer": "Battle of Maqdela",
+‎    "explanation": "The British expedition defeated Tewodros at Maqdela in 1868. / በእንግሊዝ እና በአፄ ቴዎድሮስ መካከል የተደረገው ጦርነት መቅደላ ላይ ነበር።"
+‎  },
+‎  {
+‎    "number": 12,
+‎    "question": "Which battle was fought between Emperor Yohannes IV and Egyptian forces in 1875?",
+‎    "options": ["Battle of Gundet", "Battle of Assam", "Battle of Dogali", "Battle of Metemma"],
+‎    "answer": "Battle of Gundet",
+‎    "explanation": "The Battle of Gundet (1875) was a major victory for Yohannes IV against Egypt. / አፄ ዮሐንስ ከግብፅ ጋር ያደረጉት የጉንደት ጦርነት በ1875 ነበር።"
+‎  },
+‎  {
+‎    "number": 13,
+‎    "question": "Which battle was fought between Emperor Tekle-Giorgis II and Kasa Mircha in July 1871?",
+‎    "options": ["Battle of Adwa", "Battle of Assam", "Battle of Metemma", "Battle of Gundet"],
+‎    "answer": "Battle of Assam",
+‎    "explanation": "Kasa Mircha defeated Tekle-Giorgis II at the Battle of Assam to take the throne. / ካሳ ምርጫ አፄ ተክለ ጊዮርጊስን ድል ያደረጉት በአሳም ጦርነት ነው።"
+‎  },
+‎  {
+‎    "number": 14,
+‎    "question": "Which battle was fought between Emperor Yohannes IV and Italian forces in 1887?",
+‎    "options": ["Battle of Dogali", "Battle of Adwa", "Battle of Maqdela", "Battle of Dabarki"],
+‎    "answer": "Battle of Dogali",
+‎    "explanation": "Ras Alula Engida defeated the Italian invaders at Dogali in 1887. / ራስ አሉላ እንግዳ ጣሊያንን ዶጋሊ ላይ ድል ያደረጉት በ1887 ነው።"
+‎  },
+‎  {
+‎    "number": 15,
+‎    "question": "The first Solomonic king who embarked a policy of wider and rapid territorial expansion in medieval period was:",
+‎    "options": ["Yekuno Amlak", "Amde-Tsion", "Zara Yaqob", "Baeda Maryam"],
+‎    "answer": "Amde-Tsion",
+‎    "explanation": "Amde-Tsion is considered the real builder of the medieval Christian empire. / ግዛቱን በከፍተኛ ሁኔታ ያስፋፋው አፄ አምደ ጽዮን ነው።"
+‎  },
+‎  {
+‎    "number": 16,
+‎    "question": "Among the following one is the consequence of the population movements of the peoples of Afar, Argobba and Somali.",
+‎    "options": ["The collapse of Adal", "The spread of Christianity", "Strengthening the military force of Ahmed ibn Ibrahim al-Ghazi", "The fall of the Christian kingdom"],
+‎    "answer": "Strengthening the military force of Ahmed ibn Ibrahim al-Ghazi",
+‎    "explanation": "The movement provided Imam Ahmed with a large army for his campaigns. / ይህ እንቅስቃሴ ለኢማም አህመድ (ግራኝ) ሰራዊት መጠናከር ትልቅ አስተዋጽኦ አድርጓል።"
+‎  },
+‎  {
+‎    "number": 17,
+‎    "question": "All of the following statements have persuasive idea in relation to the Gibe Oromo States EXCEPT:",
+‎    "options": [
+‎        "Trade was a major factor for their wealth.",
+‎        "They emerged in the 19th century.",
+‎        "Monarchy was their governance system.",
+‎        "Long distance trade had nothing to do with the establishment of these states."
+‎    ],
+‎    "answer": "Long distance trade had nothing to do with the establishment of these states.",
+‎    "explanation": "Long-distance trade was a major factor in the formation of these states. / የጊቤ መንግስታት ሲመሰረቱ የረጅም ርቀት ንግድ ትልቅ ሚና ነበረው።"
+‎  },
+‎  {
+‎    "number": 18,
+‎    "question": "Which of the following is NOT the feature of Christian Highland Kingdom in the early medieval period of Ethiopia?",
+‎    "options": [
+‎        "Territorial expansion",
+‎        "Royal prison system",
+‎        "The beginning of political decay ever in the history of the region",
+‎        "Growth of literature"
+‎    ],
+‎    "answer": "The beginning of political decay ever in the history of the region",
+‎    "explanation": "The early medieval period was a time of strength, not decay. / ቀደምት መካከለኛው ዘመን የጥንካሬ ጊዜ እንጂ 'የመንግስት መዳከም' የታየበት አልነበረም።"
+‎  },
+‎  {
+‎    "number": 19,
+‎    "question": "Which of the following is NOT true about a royal prison of Amba-Gishen?",
+‎    "options": [
+‎        "It was used to house male relatives of the King.",
+‎        "The prison was guarded by royal families",
+‎        "It was located in present-day Wollo.",
+‎        "It aimed to avoid power struggles."
+‎    ],
+‎    "answer": "The prison was guarded by royal families",
+‎    "explanation": "Amba Gishen was guarded by a special loyal guard known as the 'Ayba'. / አምባ ግሸን የሚጠበቀው በቤተመንግስት ቤተሰቦች ሳይሆን በወታደሮች ነበር።"
+‎  },
+‎  {
+‎    "number": 20,
+‎    "question": "The long distance trade of the 19th Century Ethiopia and the Horn was characterized by:",
+‎    "options": [
+‎        "A single trade route",
+‎        "the existence of two main trade lines that linked various territories",
+‎        "Only local exchange",
+‎        "No connection to the coast"
+‎    ],
+‎    "answer": "the existence of two main trade lines that linked various territories",
+‎    "explanation": "The trade had two main routes ending at Massawa and Zeila/Berbera. / በ19ኛው ክፍለ ዘመን የነበረው ንግድ ሁለት ዋና መስመሮች ነበሩት።"
+‎  },
+‎  {
+‎    "number": 21,
+‎    "question": "The immediate cause of the Zemene Mesafint was:",
+‎    "options": [
+‎        "The death of Amde Tsion",
+‎        "The Oromo expansion",
+‎        "The assassination of Iyoas by Ras Michael Sehul",
+‎        "The rise of Tewodros II"
+‎    ],
+‎    "answer": "The assassination of Iyoas by Ras Michael Sehul",
+‎    "explanation": "Zemene Mesafint began in 1769 when Ras Michael Sehul assassinated Emperor Iyoas I. / ዘመነ መሳፍንት የጀመረው ራስ ሚካኤል ስሁል ንጉሥ ኢዮአስን በገደሉበት ወቅት ነው።"
+‎  },
+‎  {
+‎    "number": 22,
+‎    "question": "Tewodros II King of Kings of Ethiopia is remembered in the history pages of the country for:",
+‎    "options": [
+‎        "Defeating the Adal Sultanate",
+‎        "his attempt to create a strong central government",
+‎        "Building many churches in Gondar",
+‎        "Moving the capital to Addis Ababa"
+‎    ],
+‎    "answer": "his attempt to create a strong central government",
+‎    "explanation": "Tewodros II's main vision was centralizing power and reunification. / አፄ ቴዎድሮስ የሚታወሱት ማዕከላዊ መንግሥት ለመመስረት ባደረጉት ጥረት ነው።"
+‎  },
+‎  {
+‎    "number": 23,
+‎    "question": "The Anti-Ewostatewos group was led by:",
+‎    "options": [
+‎        "Yekuno Amlak",
+‎        "Abba Ewostatewos",
+‎        "Zara Yaqob",
+‎        "Aqabe-Se'at Serqe Birhan"
+‎    ],
+‎    "answer": "Aqabe-Se'at Serqe Birhan",
+‎    "explanation": "The followers of Ewostatewos were opposed by leaders like Aqabe-Se'at Serqe Birhan. / የኤዎስጣቴዎስን ወገኖች በቤተክርስቲያን በኩል ይቃወሙ የነበሩት በአቃቤ ሰዓት ሰርቀ ብርሃን ይመሩ ነበር።"
+‎  },
+‎  {
+‎    "number": 24,
+‎    "question": "Among those powerful kings of Gondar who established a separate living quarter for Muslims at Addis Alem?",
+‎    "options": ["Yohannes I", "Fasilades", "Iyasu I", "Bakaffa"],
+‎    "answer": "Yohannes I",
+‎    "explanation": "Emperor Yohannes I assigned a separate quarter called Addis Alem for Muslims. / አፄ ዮሐንስ 1ኛ ለሙስሊሞች 'አዲስ ዓለም' የተባለ መንደር የለዩ ንጉሥ ናቸው።"
+‎  },
+‎  {
+‎    "number": 25,
+‎    "question": "The first center of Walasma dynasty of Adal was:",
+‎    "options": ["Dakar", "Harar", "Zeila", "Awsa"],
+‎    "answer": "Dakar",
+‎    "explanation": "The Walasma dynasty originally established its center at Dakar near Harar. / የወላስማ ስርወ መንግሥት የመጀመሪያው ማዕከል ደከር ነበረች።"
+‎  },
+‎  {
+‎    "number": 26,
+‎    "question": "The intervention of which European power in the conflict between Adal and Christian Kingdom led the war to take an international dimension?",
+‎    "options": [
+‎        "Britain and France",
+‎        "Spain and Italy",
+‎        "Germany and Russia",
+‎        "Ottoman Turkey and Portugal"
+‎    ],
+‎    "answer": "Ottoman Turkey and Portugal",
+‎    "explanation": "Ottoman Turks supported Adal, while Portugal supported the Christian Kingdom. / ኦቶማን ቱርክ ለአዳል፣ ፖርቹጋል ደግሞ ለክርስቲያን መንግሥት ድጋፍ ሰጥተዋል።"
+‎  },
+‎  {
+‎    "number": 27,
+‎    "question": "Which one of the following modernization reforms was made during the Dual Rule (1916-30)?",
+‎    "options": [
+‎        "Ethiopia's entry into the League of Nations",
+‎        "The building of the Ethio-Djibouti railway",
+‎        "The victory of Adwa",
+‎        "The first Constitution"
+‎    ],
+‎    "answer": "Ethiopia's entry into the League of Nations",
+‎    "explanation": "Ethiopia joined the League of Nations in 1923 under the regency of Ras Teferi. / በ1923 ኢትዮጵያ የዓለም መንግሥታት ማኅበር አባል ሆናለች።"
+‎  },
+‎  {
+‎    "number": 28,
+‎    "question": "In 1841, the British envoy named Captain Cornwallis Harris had signed the Treaty of Friendship and commerce with:",
+‎    "options": [
+‎        "Emperor Yohannes IV",
+‎        "Ras Ali II",
+‎        "Negus Sahle Selassie of Shewa",
+‎        "Dejazmach Wube"
+‎    ],
+‎    "answer": "Negus Sahle Selassie of Shewa",
+‎    "explanation": "Captain Harris signed a diplomatic agreement with King Sahle Selassie of Shewa. / ካፒቴን ሃሪስ ከሸዋው ንጉሥ ሳህለ ሥላሴ ጋር የንግድ ስምምነት ተፈራርሟል።"
+‎  },
+‎  {
+‎    "number": 29,
+‎    "question": "Which one of the following Catholic missionary members did NOT play key role in the efforts to evangelize Ethiopia?",
+‎    "options": ["Alfonso Mendez", "Pedro Paez", "Christopher da Gama", "Giuseppe Sapeto"],
+‎    "answer": "Christopher da Gama",
+‎    "explanation": "Christopher da Gama was a military leader, not a missionary. / ክሪስቶፈር ዳጋማ ወታደራዊ መሪ እንጂ ሚስዮናዊ አልነበረም።"
+‎  },
+‎  {
+‎    "number": 30,
+‎    "question": "The relationship between the Christian Kingdom and Egypt in early medieval period was NOT highly influenced by:",
+‎    "options": ["The Nile river", "The Coptic Church", "the boundary issue", "Religious minorities"],
+‎    "answer": "the boundary issue",
+‎    "explanation": "In medieval times, relationships were based on Nile and religion, not defined borders. / በመካከለኛው ዘመን ግንኙነቱ በድንበር ጉዳይ ላይ የተመሰረተ አልነበረም።"
+‎  },
+‎  {
+‎    "number": 31,
+‎    "question": "How did the major foreign powers of the world recognize Ethiopia's independence after the historic Battle of Adwa?",
+‎    "options": [
+‎        "By paying tribute to Menelik II",
+‎        "By signing the Treaty of Wuchale",
+‎        "By opening their legations in Addis Ababa",
+‎        "By leaving their colonies in Africa"
+‎    ],
+‎    "answer": "By opening their legations in Addis Ababa",
+‎    "explanation": "Major powers opened diplomatic offices in Addis Ababa, recognizing Ethiopia's sovereignty. / ሀገራት አዲስ አበባ ውስጥ ዲፕሎማሲያዊ ቢሮዎችን በመክፈት እውቅና ሰጥተዋል።"
+‎  },
+‎  {
+‎    "number": 32,
+‎    "question": "What was the main inquiry of Ewostatians movement during the 14th and 15th Centuries?",
+‎    "options": [
+‎        "The use of icons",
+‎        "The question of Sabbath",
+‎        "The nature of Christ",
+‎        "Translation of the Bible"
+‎    ],
+‎    "answer": "The question of Sabbath",
+‎    "explanation": "The primary dispute was the observance of both Saturday and Sunday Sabbaths. / የኤዎስጣቴዎስ ወገኖች ዋነኛው ክርክር 'ሁለቱ ሰንበታት' ይከበሩ የሚል ነበር።"
+‎  },
+‎  {
+‎    "number": 33,
+‎    "question": "Which one of the following is a persuasive idea about the Treaty of Neutrality of 1887?",
+‎    "options": [
+‎        "It was signed between Negus Tekle Haymanot and Italians in a bid to isolate Yohannes IV",
+‎        "It was signed between Menelik and Yohannes",
+‎        "It was an agreement to stop slave trade",
+‎        "It was signed with Britain to get weapons"
+‎    ],
+‎    "answer": "It was signed between Negus Tekle Haymanot and Italians in a bid to isolate Yohannes IV",
+‎    "explanation": "Italy tried to weaken Yohannes IV by making separate treaties with regional kings. / ጣሊያኖች አፄ ዮሐንስን ነጥሎ ለማዳከም ከንጉሥ ተክለሃይማኖት ጋር የፈረሙት ነው።"
+‎  },
+‎  {
+‎    "number": 34,
+‎    "question": "One of the following is NOT a result of long-distance trade in medieval Ethiopia.",
+‎    "options": [
+‎        "Spread of Islam",
+‎        "Cultural exchange",
+‎        "Revenue for the state",
+‎        "the major channel of social disintegration"
+‎    ],
+‎    "answer": "the major channel of social disintegration",
+‎    "explanation": "Trade promoted integration through economic exchange, not disintegration. / የረጅም ርቀት ንግድ የህብረተሰብ መከፋፈያ ሳይሆን ማገናኛ ነበር።"
+‎  },
+‎  {
+‎    "number": 35,
+‎    "question": "Which one of the following does NOT describe Emperor Susenyos?",
+‎    "options": [
+‎        "He converted to Catholicism.",
+‎        "He faced civil war.",
+‎        "He abdicated in favor of his son.",
+‎        "was brutally killed by his own people"
+‎    ],
+‎    "answer": "was brutally killed by his own people",
+‎    "explanation": "Emperor Susenyos died of natural causes after abdicating. / አፄ ሱስንዮስ የሞቱት በተፈጥሮ ሞት እንጂ በህዝብ ተገድለው አይደለም።"
+‎  },
+‎  {
+‎    "number": 36,
+‎    "question": "One of the following CAN NOT be taken as the common feature of Peoples and States in Central, South, SE and West parts of Ethiopia?",
+‎    "options": [
+‎        "Their land is known for its less fertility and harsh climate",
+‎        "They were active in trade.",
+‎        "They had indigenous governance systems.",
+‎        "They were involved in agriculture."
+‎    ],
+‎    "answer": "Their land is known for its less fertility and harsh climate",
+‎    "explanation": "These regions are generally known for high fertility and favorable climates. / የእነዚህ አካባቢዎች መሬት በጣም ለም ነው።"
+‎  },
+‎  {
+‎    "number": 37,
+‎    "question": "What event immediately sparked off the second phase patriotic resistance movement in 1937?",
+‎    "options": [
+‎        "The invasion of Ethiopia",
+‎        "Merciless killing of thousands after the attempt to kill Graziani",
+‎        "The exile of the Emperor",
+‎        "The League of Nations failure"
+‎    ],
+‎    "answer": "Merciless killing of thousands after the attempt to kill Graziani",
+‎    "explanation": "The massacre of thousands in Addis Ababa (Yekatit 12) motivated the resistance. / በየካቲት 12 የተካሄደው የንጹሃን ጭፍጨፋ ለተቃውሞው መነሳሳት ምክንያት ነበር።"
+‎  },
+‎  {
+‎    "number": 38,
+‎    "question": "The restoration of Solomonic Dynasty in Ethiopian history refers to:",
+‎    "options": [
+‎        "The rise of the Zagwe",
+‎        "The conversion to Christianity",
+‎        "The restoration of King Solomon and Queen Sheba's lineage",
+‎        "The start of the Gondar period"
+‎    ],
+‎    "answer": "The restoration of King Solomon and Queen Sheba's lineage",
+‎    "explanation": "In 1270, Yekuno Amlak claimed to restore the 'rightful' bloodline. / የሰለሞናዊው ስርወ መንግሥት መመለስ በ1270 ይኩኖ አምላክ ስልጣን የያዘበት ነው።"
+‎  },
+‎  {
+‎    "number": 39,
+‎    "question": "Gondar served as a permanent capital for about 150 years and achieved cityhood because:",
+‎    "options": [
+‎        "Large population",
+‎        "Foreign communities and trade",
+‎        "Stone structures and castles",
+‎        "All of the above"
+‎    ],
+‎    "answer": "All of the above",
+‎    "explanation": "Population, foreign presence, and permanent buildings helped Gondar become a city. / ጎንደር ትልቅ ህዝብ፣ የውጭ ዜጎች እና የድንጋይ ህንፃዎች ስለነበሩት ከተማ ሆኗል።"
+‎  },
+‎  {
+‎    "number": 40,
+‎    "question": "The Socio-economic reforms of Emperor Tewodros II can be exemplified by his:",
+‎    "options": [
+‎        "Building railways",
+‎        "Establishing a national bank",
+‎        "Starting modern schools",
+‎        "attempt to put an end to the slave trade"
+‎    ],
+‎    "answer": "attempt to put an end to the slave trade",
+‎    "explanation": "Tewodros II issued decrees against slave trade as part of modernization. / አፄ ቴዎድሮስ የባሪያ ንግድን ለማስቆም ጥረት አድርገዋል።"
+‎  },
+‎  {
+‎    "number": 41,
+‎    "question": "What were the main causes of the Oromo Population Movement?",
+‎    "options": [
+‎        "Searching for gold",
+‎        "Grazing land, overpopulation, and Gada dynamics",
+‎        "Spread of religion",
+‎        "European influence"
+‎    ],
+‎    "answer": "Grazing land, overpopulation, and Gada dynamics",
+‎    "explanation": "The search for grazing land and Gada system requirements were key causes. / የመነሳሳት መንስኤዎቹ የግጦሽ መሬት ፍለጋ እና የገዳ ስርዓት ናቸው።"
+‎  },
+‎  {
+‎    "number": 42,
+‎    "question": "What was the main feature of Emperor Tewodros II's military reforms?",
+‎    "options": [
+‎        "Using guerrilla warfare",
+‎        "Buying weapons from Italy",
+‎        "Professional army and domestic firearms manufacturing",
+‎        "Abolishing the army"
+‎    ],
+‎    "answer": "Professional army and domestic firearms manufacturing",
+‎    "explanation": "Tewodros aimed for a salaried national army and manufacturing weapons at Gafat. / አፄ ቴዎድሮስ ብሄራዊ ሰራዊት እና ጋፋት ላይ የጦር መሳሪያ ማምረት ጀምረው ነበር።"
+‎  }
+‎]
+‎
